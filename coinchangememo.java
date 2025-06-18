@@ -1,5 +1,3 @@
-package CoinChange;
-
 public class coinchangememo {
       public static int count(int coins[], int sum) {
        int [][] memo=new int [coins.length+1][sum+1];

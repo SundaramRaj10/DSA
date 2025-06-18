@@ -1,5 +1,3 @@
-package CoinChange;
-
 public class coinchanrec {
     public static int count(int coins[], int sum) {
         return countRec(coins, coins.length, sum);

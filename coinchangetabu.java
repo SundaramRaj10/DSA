@@ -1,5 +1,3 @@
-package CoinChange;
-
 public class coinchangetabu {
      public static int count(int coins[], int sum) {
         int n = coins.length;
